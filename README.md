@@ -56,8 +56,10 @@ Après compilation, lancez le jeu avec :
 
 ```
 my_hunter/
-├── my_hunter.c        # Fichier principal
-├── *.c / *.h          # Fichiers sources et headers
+├── include/           # Dossiers du header
+│   └── *.h            # Fichiers headers
+├── src/               # Dossiers sources du jeu
+│   └── *.c            # Fichiers sources
 ├── ressources/
 │   ├── fonts/         # Polices du jeu
 │   └── music/         # Sons du jeu
