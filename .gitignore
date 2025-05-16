@@ -1,0 +1,7 @@
+obj
+
+my_hunter
+
+*.o
+
+*.a
