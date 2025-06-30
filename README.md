@@ -76,9 +76,11 @@ my_hunter/
 
 ---
 
-## 👨‍💻 Auteur
+## Epitech Warning
 
-Projet réalisé dans le cadre de l’école **EPITECH**, inspiré du jeu Duck Hunt.
+**This is a warning to all epitech students:** 
+- **We recall you that being a copycat at EPITECH will not bring you any good.**
+- **Copying is totally banned at EPITECH and by not respecting this rule you can be scolded.**
 
 ---
 
